@@ -11,7 +11,7 @@
 
 <body>
   <div class="main">
-    <h1>Selected Date Is 7<sup>th</sup> Of August</h1>
+    <h1>Selected Date Is 18<sup>th</sup> Of August 2021</h1>
 
     <div id="countdown"></div>
   </div>

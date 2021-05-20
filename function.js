@@ -6,7 +6,7 @@ let countdown = setInterval(function() {
 
   const today = new Date().getTime();
 
-  const diff = today - choosenDate;
+  const diff =  choosenDate - today;
 
   let days = Math.floor(diff / (1000 * 60 * 60 * 24));
   let hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
